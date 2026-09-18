@@ -1,0 +1,10 @@
+mss
+Pillow
+pytesseract
+deep-translator
+google-generativeai
+requests
+python-dotenv
+keyboard
+sv-ttk
+customtkinter
